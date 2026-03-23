@@ -6,9 +6,6 @@ Blog post: *AI is the New Human-System Mediation Layer — Why Language Models A
 
 Every layer of software we interact with — UIs, APIs, CLIs, documents, databases — is being collapsed into a single mediation layer: the language model. This post traces the pattern across five layers being absorbed, the governance implications, and what changes for builders.
 
-![Mediation architecture](image-13.jpg)
-
-![Before and now comparison](image-14.jpg)
 
 ![Five layers being collapsed](image-16.jpg)
 
