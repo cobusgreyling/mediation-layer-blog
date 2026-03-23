@@ -1,5 +1,5 @@
 
-![The mediation layer](/image-15.jpg)
+![The mediation layer](image-13.jpg)
 
 # The Mediation Layer
 
