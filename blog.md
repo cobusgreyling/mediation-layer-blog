@@ -40,6 +40,8 @@ When you ask a model to compare two insurance policies, you are not using a docu
 
 The documents are inputs to the model. The model is the interface. The comparison tool doesn't exist anymore — the model replaced it.
 
+![Mediation architecture](image-13.jpg)
+
 This is happening across every interaction surface:
 
 ```
@@ -59,6 +61,8 @@ Often the model does not even interface to a system. In many cases the *system* 
 **Now:** Human → "Add retry logic to the payment handler" → Model → Code → Tests
 
 The model is becoming the universal interface. Not because it's smarter than specialised tools. Because it speaks the same language as the human on one side and can operate any tool or machine on the other.
+
+![The universal interface](image-14.jpg)
 
 ## Five Layers Being Collapsed
 
