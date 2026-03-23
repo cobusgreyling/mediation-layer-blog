@@ -8,6 +8,8 @@ Every layer of software we interact with — UIs, APIs, CLIs, documents, databas
 
 ![Mediation architecture](image-13.jpg)
 
-![The universal interface](image-14.jpg)
+![Before and now comparison](image-14.jpg)
+
+![Five layers being collapsed](image-16.jpg)
 
 See [blog.md](blog.md) for the full post.
