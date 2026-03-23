@@ -1,6 +1,8 @@
 
 ![The mediation layer](image-13.jpg)
 
+![The universal interface](image-15.jpg)
+
 # The Mediation Layer
 
 Blog post: *The Mediation Layer: Why Language Models Are Becoming the Universal Interface*

@@ -4,6 +4,8 @@ You no longer interact with technology directly. A language model does it for yo
 
 ![The mediation layer](image-13.jpg)
 
+![The universal interface](image-15.jpg)
+
 ## In Short
 
 Every layer of software we interact with — UIs, APIs, CLIs, documents, databases — is being collapsed into a single mediation layer: the language model. You describe intent in natural language. The model translates that into actions, queries, comparisons, and decisions. The implication is architectural, not cosmetic. The model is not a feature bolted onto existing software. It is replacing the interface itself. And that changes everything about how we build, govern, and trust technology.
