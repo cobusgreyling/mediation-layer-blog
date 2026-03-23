@@ -2,7 +2,6 @@
 
 You no longer interact with technology directly. A language model does it for you.
 
-![The mediation layer](image-13.jpg)
 
 ![The universal interface](image-15.jpg)
 
