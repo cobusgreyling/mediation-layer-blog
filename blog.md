@@ -2,7 +2,7 @@
 
 You no longer interact with technology directly. A language model does it for you.
 
-![The Mediation Layer](images/mediation1.png)
+![The mediation layer](image-13.jpg)
 
 ## In Short
 
