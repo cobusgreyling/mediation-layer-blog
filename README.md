@@ -1,5 +1,5 @@
 
-![The mediation layer](image-13.jpg)
+
 
 ![The universal interface](image-15.jpg)
 
